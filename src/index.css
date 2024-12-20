@@ -13,5 +13,9 @@
 	button {
 		@apply bg-gray-200 rounded cursor-pointer hover:accent-red-50
 	}
+
+    input {
+        @apply rounded
+    }
 	
 }
